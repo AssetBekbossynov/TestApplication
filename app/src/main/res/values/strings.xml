@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="facebook_app_id">1926013274205167</string>
+    <string name="fb_login_protocol_scheme">fb1926013274205167</string>
+
+    <integer name="com_vk_sdk_AppId">7718109</integer>
+
+</resources>
